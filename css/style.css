@@ -1,0 +1,17 @@
+@media screen and (min-width: 1400px){
+
+    .textArrangeXL{
+
+        font-size: 21px !important;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+
+    .textArrangeMD{
+
+        font-size: 23px !important;
+    }
+}
+
+
